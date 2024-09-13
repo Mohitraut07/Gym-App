@@ -1,6 +1,5 @@
-## README.md
 
-### Gym App Landing Page
+## Gym App Landing Page
 
 **A stylish and responsive landing page for your gym app, built with SvelteKit and TailwindCSS.**
 
